@@ -7,4 +7,5 @@ This is the Intro to Robotics class for UCCS.
 
 
 **Lab 4**
+Question: do I show you how it works with the given code first and then add the 
 ![Uploading image.png…]()
